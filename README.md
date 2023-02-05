@@ -65,7 +65,9 @@ Syntax dari try-finally statement adalah seperti ini :
 Kita tidak bisa menggunakan else berbarengan dengan sebuah finally.
 Contohnya
 ![gambar 8](img/8.png)
+
 Contoh yang sama bisa ditulis lebih sempurna
+
 ![gambar 9](img/9.png)
 Ketika pengecualian dilemparkan ke try-block, eksekusi segera diteruskan ke finally block. Setelah semua pernyataan di blok finally dieksekusi, pengecualian dimunculkan lagi dan ditangani di dalam pernyataan except jika ada di lapisan di atas pernyataan try-except berikutnya.
 

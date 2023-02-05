@@ -69,6 +69,7 @@ Contohnya
 Contoh yang sama bisa ditulis lebih sempurna
 
 ![gambar 9](img/9.png)
+
 Ketika pengecualian dilemparkan ke try-block, eksekusi segera diteruskan ke finally block. Setelah semua pernyataan di blok finally dieksekusi, pengecualian dimunculkan lagi dan ditangani di dalam pernyataan except jika ada di lapisan di atas pernyataan try-except berikutnya.
 
 ## Argumen dari sebuah pengecualian
